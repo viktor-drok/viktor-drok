@@ -19,4 +19,4 @@
 
 ### Contact me
 
-[![TG](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/viktor_drok)
+[![TG](https://img.shields.io/badge/-Telegram-0d1117?style=for-the-badge&logo=telegram)](https://t.me/viktor_drok)
