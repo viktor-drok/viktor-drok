@@ -7,4 +7,4 @@
 
 - Games:
 
-  - ✅ [Conway's Game of Life](https://github.com/viktor-drok/gol-rev2) (HTML, CSS JS), 📂[deploy](https://viktor-drok.github.io/gol-rev2/)
+  - ✅ [Conway's Game of Life 🎲](https://github.com/viktor-drok/gol-rev2) (HTML, CSS JS), 📂[deploy](https://viktor-drok.github.io/gol-rev2/)
