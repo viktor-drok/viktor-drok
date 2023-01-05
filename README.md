@@ -19,8 +19,6 @@
 
 ### Contact me
 
-#
-
 [![TG](https://img.shields.io/badge/-Telegram-0d1117?style=for-the-badge&logo=telegram)](https://t.me/viktor_drok) [![GMAIL](https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail)](https://vityadrok@gmail.com)
 
 #
