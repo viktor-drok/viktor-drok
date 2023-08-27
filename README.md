@@ -5,6 +5,7 @@
 - Pet-project:
 
   - ✅ [ToDo List 🧾](https://github.com/viktor-drok/React-ToDo-List) (HTML, CSS, React JS), [📂 deploy](https://viktor-drok.github.io/React-ToDo-List/)
+  - ✅ [ToDo List 2🧾](https://github.com/viktor-drok/next-app-todo) (Next JS, Tailwind, Zustand), [📂 deploy](https://next-app-todo.vercel.app/)
   - ✅ [clone-dominos-pizza 🧾](https://github.com/viktor-drok/clone-dominos-pizza) (HTML, CSS, React JS, Redux), [📂 deploy](https://viktor-drok.github.io/clone-dominos-pizza/)
   - ✅ [Custom Swiper](https://github.com/viktor-drok/hand-made-swiper) (HTML, CSS, JS), [📂 deploy](https://viktor-drok.github.io/hand-made-swiper/)
   - ✅ [Drag-And-Drop](https://github.com/viktor-drok/drag-and-drop) (HTML, CSS, JS), [📂 deploy](https://viktor-drok.github.io/drag-and-drop/)
